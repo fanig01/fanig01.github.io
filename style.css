@@ -333,29 +333,3 @@ td, th {
     margin: auto auto 5% auto;
   }
 }
-
-/* @media screen and (max-width: 768px) {
-  .caixa {
-    width: auto;
-  }
-
-  h1 {
-    text-align: center;
-  }
-
-  nav {
-    position: static;
-    text-align: center;
-  }
-
-  .produtos {
-    text-align: center;
-    width: auto;
-    display: inline-block;
-  }
-
-  .produtos li {
-    width: auto;
-    text-align: center;
-  }
-} */
