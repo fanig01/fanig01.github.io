@@ -18,7 +18,7 @@ Utilizado diversas técnicas de estilo.
 
 [hospedagem github](fanig01.github.io)
 
-[hospedagem nelify](https://barbeariashopps.netlify.app/)
+[hospedagem netlify](https://barbeariashopps.netlify.app/)
 
 
 
